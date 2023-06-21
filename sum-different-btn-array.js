@@ -7,4 +7,3 @@ function sumOfDifferences(arr) {
     }
     return Math.abs(sum)
 }
-console.log(sumOfDifferences([2,10,1]))
